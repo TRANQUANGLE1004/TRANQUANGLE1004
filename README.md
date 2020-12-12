@@ -11,4 +11,4 @@ I'm a Computer Engineering HCM University of Technology. Blessing the best for y
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:tranquangle1997@gmail.com)
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: not fun :))
