@@ -1,6 +1,5 @@
 
 <h1 align="Center">  Mina san konichiwa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
 I'm a Computer Engineering HCM University of Technology. Blessing the best for you.
 
