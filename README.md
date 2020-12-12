@@ -1,7 +1,7 @@
 
 <h1 align="Center">  Mina san konichiwa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-I'm a Computer Engineering HCM University of Technology. Blessing the best for you.
+I'm a Computer Engineering HCM University of Technology.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about ROS,  simulation robotic, control theory and project manager.
